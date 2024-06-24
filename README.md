@@ -40,7 +40,7 @@ python 3gppnetwork-hostnames-ips.py
 * Optional: With a country code to filter results (country code is based off of dialing codes e.g., United Kingdom: 44, United States of America: 1, South Africa: 27):
 
 ```bash
-python hostname_resolver.py 234  # Filter for the country code 234
+python hostname_resolver.py 44  # Filter for the country code 44
 ```
 
 4. Check the output:
