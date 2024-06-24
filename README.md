@@ -5,7 +5,8 @@ With the constant need to allow WIFI calling around the world through different 
 ## Features
 
 *   **Web Scraping:** Fetches the latest MCC/MNC data from mcc-mnc.com.
-*   **Hostname Construction:** Generates hostnames based on the scraped data (format: `epdg.epc.mnc{MNC}.mcc{MCC}.pub.3gppnetwork.org`).
+*   **Hostname Construction:** Generates hostnames based on the scraped data. Format:
+`epdg.epc.mnc{MNC}.mcc{MCC}.pub.3gppnetwork.org`
 *   **Multiple IP Address Handling:**  Can resolve a single hostname to multiple IP addresses.
 *   **Country Code Filtering:** Allows you to filter the data by a specific country code.
 *   **Detailed Output:** Saves results to a CSV file with hostname, IP addresses, country code, and network information.
