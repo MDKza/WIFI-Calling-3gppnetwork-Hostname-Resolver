@@ -17,15 +17,17 @@ With the constant need to allow WIFI calling around the world through different 
 
 *   **Python:** Make sure you have Python 3.7 or higher installed.
 *   **Libraries:** You need to install the following Python libraries:
-    -   `pandas`
-    -   `tqdm`
-    -   `requests`
-    -   `beautifulsoup4`
+- `aiofiles`
+- `aiodns`
+- `tqdm`
+- `pandas`
+- `beautifulsoup4`
+- `requests`
     
 You can install them using `pip`:
 
 ```bash
-pip install pandas tqdm requests beautifulsoup4
+pip install aiofiles aiodns tqdm pandas beautifulsoup4 requests
 ```
 
 ## How to Use
