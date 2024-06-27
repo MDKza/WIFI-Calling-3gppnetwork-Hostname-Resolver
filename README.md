@@ -11,7 +11,6 @@ With the constant need to allow WIFI calling around the world through different 
 *   **Country Code Filtering:** Allows you to filter the data by a specific country code.
 *   **Detailed Output:** Saves results to a CSV file with hostname, IP addresses, country code, and network information.
 *   **Summary Report:** Prints a summary of the resolution process.
-*   **User-Selected Output Directory:** A dialog box allows the user to choose where the output files are saved.
 
 ## Prerequisites
 
