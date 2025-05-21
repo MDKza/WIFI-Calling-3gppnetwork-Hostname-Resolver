@@ -1,0 +1,4082 @@
+[
+  {
+    "country": "ai",
+    "fqdn": "epdg.epc.mnc840.mcc365.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "ag",
+    "fqdn": "epdg.epc.mnc920.mcc344.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "bb",
+    "fqdn": "epdg.epc.mnc600.mcc342.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "vg",
+    "fqdn": "epdg.epc.mnc170.mcc348.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "ca",
+    "fqdn": "epdg.epc.mnc500.mcc302.pub.3gppnetwork.org",
+    "ip": "184.162.85.128"
+  },
+  {
+    "country": "ca",
+    "fqdn": "epdg.epc.mnc500.mcc302.pub.3gppnetwork.org",
+    "ip": "66.130.6.180"
+  },
+  {
+    "country": "ca",
+    "fqdn": "epdg.epc.mnc610.mcc302.pub.3gppnetwork.org",
+    "ip": "69.158.242.2"
+  },
+  {
+    "country": "ca",
+    "fqdn": "epdg.epc.mnc780.mcc302.pub.3gppnetwork.org",
+    "ip": "142.165.29.158"
+  },
+  {
+    "country": "ca",
+    "fqdn": "epdg.epc.mnc780.mcc302.pub.3gppnetwork.org",
+    "ip": "142.165.45.158"
+  },
+  {
+    "country": "ca",
+    "fqdn": "epdg.epc.mnc781.mcc302.pub.3gppnetwork.org",
+    "ip": "142.165.29.245"
+  },
+  {
+    "country": "ca",
+    "fqdn": "epdg.epc.mnc781.mcc302.pub.3gppnetwork.org",
+    "ip": "142.165.45.45"
+  },
+  {
+    "country": "ca",
+    "fqdn": "epdg.epc.mnc681.mcc302.pub.3gppnetwork.org",
+    "ip": "207.47.135.132"
+  },
+  {
+    "country": "ca",
+    "fqdn": "epdg.epc.mnc510.mcc302.pub.3gppnetwork.org",
+    "ip": "184.163.5.80"
+  },
+  {
+    "country": "ca",
+    "fqdn": "epdg.epc.mnc220.mcc302.pub.3gppnetwork.org",
+    "ip": "207.219.233.33"
+  },
+  {
+    "country": "ca",
+    "fqdn": "epdg.epc.mnc490.mcc302.pub.3gppnetwork.org",
+    "ip": "208.98.222.247"
+  },
+  {
+    "country": "ca",
+    "fqdn": "epdg.epc.mnc370.mcc302.pub.3gppnetwork.org",
+    "ip": "209.148.157.48"
+  },
+  {
+    "country": "ca",
+    "fqdn": "epdg.epc.mnc720.mcc302.pub.3gppnetwork.org",
+    "ip": "209.148.157.48"
+  },
+  {
+    "country": "ky",
+    "fqdn": "epdg.epc.mnc140.mcc346.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "cr",
+    "fqdn": "epdg.epc.mnc004.mcc712.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "dm",
+    "fqdn": "epdg.epc.mnc110.mcc366.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "do",
+    "fqdn": "epdg.epc.mnc001.mcc370.pub.3gppnetwork.org",
+    "ip": "190.124.94.1"
+  },
+  {
+    "country": "do",
+    "fqdn": "epdg.epc.mnc001.mcc370.pub.3gppnetwork.org",
+    "ip": "190.124.94.8"
+  },
+  {
+    "country": "do",
+    "fqdn": "epdg.epc.mnc002.mcc370.pub.3gppnetwork.org",
+    "ip": "190.167.239.133"
+  },
+  {
+    "country": "do",
+    "fqdn": "epdg.epc.mnc002.mcc370.pub.3gppnetwork.org",
+    "ip": "190.166.58.133"
+  },
+  {
+    "country": "gd",
+    "fqdn": "epdg.epc.mnc110.mcc352.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "jm",
+    "fqdn": "epdg.epc.mnc180.mcc338.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "mx",
+    "fqdn": "epdg.epc.mnc050.mcc334.pub.3gppnetwork.org",
+    "ip": "201.175.142.200"
+  },
+  {
+    "country": "ms",
+    "fqdn": "epdg.epc.mnc860.mcc354.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "pa",
+    "fqdn": "epdg.epc.mnc020.mcc714.pub.3gppnetwork.org",
+    "ip": "200.108.40.103"
+  },
+  {
+    "country": "pa",
+    "fqdn": "epdg.epc.mnc001.mcc714.pub.3gppnetwork.org",
+    "ip": "201.227.226.190"
+  },
+  {
+    "country": "pr",
+    "fqdn": "epdg.epc.mnc790.mcc313.pub.3gppnetwork.org",
+    "ip": "70.45.187.152"
+  },
+  {
+    "country": "pr",
+    "fqdn": "epdg.epc.mnc110.mcc330.pub.3gppnetwork.org",
+    "ip": "72.50.33.21"
+  },
+  {
+    "country": "pr",
+    "fqdn": "epdg.epc.mnc110.mcc330.pub.3gppnetwork.org",
+    "ip": "72.50.33.20"
+  },
+  {
+    "country": "kn",
+    "fqdn": "epdg.epc.mnc110.mcc356.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "lc",
+    "fqdn": "epdg.epc.mnc110.mcc358.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "vc",
+    "fqdn": "epdg.epc.mnc110.mcc360.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "tc",
+    "fqdn": "epdg.epc.mnc350.mcc376.pub.3gppnetwork.org",
+    "ip": "201.224.137.32"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc340.mcc313.pub.3gppnetwork.org",
+    "ip": "35.89.42.249"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc530.mcc311.pub.3gppnetwork.org",
+    "ip": "24.196.87.79"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc370.mcc311.pub.3gppnetwork.org",
+    "ip": "24.237.159.203"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc370.mcc311.pub.3gppnetwork.org",
+    "ip": "24.237.159.140"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc770.mcc313.pub.3gppnetwork.org",
+    "ip": "37.18.129.254"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc310.mcc310.pub.3gppnetwork.org",
+    "ip": "66.94.7.211"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc480.mcc312.pub.3gppnetwork.org",
+    "ip": "66.171.30.212"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc230.mcc311.pub.3gppnetwork.org",
+    "ip": "66.175.172.27"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc320.mcc311.pub.3gppnetwork.org",
+    "ip": "66.185.32.250"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc380.mcc312.pub.3gppnetwork.org",
+    "ip": "69.55.96.88"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc430.mcc312.pub.3gppnetwork.org",
+    "ip": "69.55.96.88"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc290.mcc312.pub.3gppnetwork.org",
+    "ip": "69.55.96.88"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc420.mcc312.pub.3gppnetwork.org",
+    "ip": "69.161.162.251"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc420.mcc312.pub.3gppnetwork.org",
+    "ip": "69.161.162.123"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc150.mcc310.pub.3gppnetwork.org",
+    "ip": "107.239.59.40"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc410.mcc310.pub.3gppnetwork.org",
+    "ip": "107.122.31.21"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc100.mcc313.pub.3gppnetwork.org",
+    "ip": "107.122.31.21"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc280.mcc310.pub.3gppnetwork.org",
+    "ip": "107.122.31.21"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc180.mcc311.pub.3gppnetwork.org",
+    "ip": "107.122.31.81"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc950.mcc310.pub.3gppnetwork.org",
+    "ip": "107.239.59.40"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc670.mcc312.pub.3gppnetwork.org",
+    "ip": "107.239.59.40"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc450.mcc310.pub.3gppnetwork.org",
+    "ip": "137.83.96.104"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc450.mcc310.pub.3gppnetwork.org",
+    "ip": "137.83.97.104"
+  },
+  {
+    "country": "us",
+    "fqdn": "wo.vzwwo.com",
+    "ip": "141.207.187.233"
+  },
+  {
+    "country": "us",
+    "fqdn": "wo.vzwwo.com",
+    "ip": "141.207.129.233"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc390.mcc313.pub.3gppnetwork.org",
+    "ip": "209.33.52.128"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc130.mcc310.pub.3gppnetwork.org",
+    "ip": "162.247.206.25"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc130.mcc310.pub.3gppnetwork.org",
+    "ip": "162.247.206.24"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc320.mcc310.pub.3gppnetwork.org",
+    "ip": "192.199.225.68"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc460.mcc313.pub.3gppnetwork.org",
+    "ip": "192.207.237.2"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc500.mcc311.pub.3gppnetwork.org",
+    "ip": "192.207.237.2"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc580.mcc310.pub.3gppnetwork.org",
+    "ip": "198.140.30.40"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc580.mcc311.pub.3gppnetwork.org",
+    "ip": "198.230.224.56"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc580.mcc311.pub.3gppnetwork.org",
+    "ip": "198.230.232.56"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc580.mcc311.pub.3gppnetwork.org",
+    "ip": "198.230.228.56"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc140.mcc310.pub.3gppnetwork.org",
+    "ip": "202.151.93.2"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc140.mcc310.pub.3gppnetwork.org",
+    "ip": "202.151.93.1"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc840.mcc311.pub.3gppnetwork.org",
+    "ip": "206.40.105.165"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc260.mcc310.pub.3gppnetwork.org",
+    "ip": "208.54.39.195"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc240.mcc310.pub.3gppnetwork.org",
+    "ip": "208.54.34.3"
+  },
+  {
+    "country": "us",
+    "fqdn": "ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org",
+    "ip": "208.54.39.131"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc670.mcc311.pub.3gppnetwork.org",
+    "ip": "208.66.187.201"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc650.mcc311.pub.3gppnetwork.org",
+    "ip": "209.203.168.65"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc990.mcc311.pub.3gppnetwork.org",
+    "ip": "216.66.103.14"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc990.mcc311.pub.3gppnetwork.org",
+    "ip": "216.66.103.13"
+  },
+  {
+    "country": "us",
+    "fqdn": "epdg.epc.mnc280.mcc312.pub.3gppnetwork.org",
+    "ip": "216.176.175.212"
+  },
+  {
+    "country": "ar",
+    "fqdn": "epdg.epc.mnc310.mcc722.pub.3gppnetwork.org",
+    "ip": "131.100.108.120"
+  },
+  {
+    "country": "ar",
+    "fqdn": "epdg.epc.mnc310.mcc722.pub.3gppnetwork.org",
+    "ip": "131.100.108.121"
+  },
+  {
+    "country": "ar",
+    "fqdn": "epdg.epc.mnc034.mcc722.pub.3gppnetwork.org",
+    "ip": "181.10.205.24"
+  },
+  {
+    "country": "ar",
+    "fqdn": "epdg.epc.mnc034.mcc722.pub.3gppnetwork.org",
+    "ip": "181.10.205.25"
+  },
+  {
+    "country": "ar",
+    "fqdn": "epdg.epc.mnc341.mcc722.pub.3gppnetwork.org",
+    "ip": "181.10.205.24"
+  },
+  {
+    "country": "br",
+    "fqdn": "epdg.epc.mnc006.mcc724.pub.3gppnetwork.org",
+    "ip": "152.255.14.0"
+  },
+  {
+    "country": "br",
+    "fqdn": "epdg.epc.mnc006.mcc724.pub.3gppnetwork.org",
+    "ip": "152.255.2.16"
+  },
+  {
+    "country": "br",
+    "fqdn": "epdg.epc.mnc010.mcc724.pub.3gppnetwork.org",
+    "ip": "152.255.2.16"
+  },
+  {
+    "country": "br",
+    "fqdn": "epdg.epc.mnc010.mcc724.pub.3gppnetwork.org",
+    "ip": "152.255.14.0"
+  },
+  {
+    "country": "br",
+    "fqdn": "epdg.epc.mnc011.mcc724.pub.3gppnetwork.org",
+    "ip": "152.255.14.0"
+  },
+  {
+    "country": "br",
+    "fqdn": "epdg.epc.mnc011.mcc724.pub.3gppnetwork.org",
+    "ip": "152.255.2.16"
+  },
+  {
+    "country": "br",
+    "fqdn": "epdg.epc.mnc023.mcc724.pub.3gppnetwork.org",
+    "ip": "152.255.14.0"
+  },
+  {
+    "country": "br",
+    "fqdn": "epdg.epc.mnc023.mcc724.pub.3gppnetwork.org",
+    "ip": "152.255.2.16"
+  },
+  {
+    "country": "br",
+    "fqdn": "epdg.epc.mnc029.mcc724.pub.3gppnetwork.org",
+    "ip": "138.94.72.1"
+  },
+  {
+    "country": "br",
+    "fqdn": "epdg.epc.mnc005.mcc724.pub.3gppnetwork.org",
+    "ip": "200.169.116.54"
+  },
+  {
+    "country": "br",
+    "fqdn": "epdg.epc.mnc005.mcc724.pub.3gppnetwork.org",
+    "ip": "200.169.118.54"
+  },
+  {
+    "country": "br",
+    "fqdn": "epdg.epc.mnc005.mcc724.pub.3gppnetwork.org",
+    "ip": "200.169.116.53"
+  },
+  {
+    "country": "cl",
+    "fqdn": "epdg.epc.mnc009.mcc730.pub.3gppnetwork.org",
+    "ip": "45.232.35.1"
+  },
+  {
+    "country": "cl",
+    "fqdn": "epdg.epc.mnc002.mcc730.pub.3gppnetwork.org",
+    "ip": "191.125.99.6"
+  },
+  {
+    "country": "cl",
+    "fqdn": "epdg.epc.mnc001.mcc730.pub.3gppnetwork.org",
+    "ip": "200.111.238.65"
+  },
+  {
+    "country": "co",
+    "fqdn": "epdg.epc.mnc360.mcc732.pub.3gppnetwork.org",
+    "ip": "179.49.229.13"
+  },
+  {
+    "country": "co",
+    "fqdn": "epdg.epc.mnc360.mcc732.pub.3gppnetwork.org",
+    "ip": "179.49.228.13"
+  },
+  {
+    "country": "co",
+    "fqdn": "epdg.epc.mnc123.mcc732.pub.3gppnetwork.org",
+    "ip": "190.13.110.250"
+  },
+  {
+    "country": "co",
+    "fqdn": "epdg.epc.mnc103.mcc732.pub.3gppnetwork.org",
+    "ip": "190.102.205.10"
+  },
+  {
+    "country": "co",
+    "fqdn": "epdg.epc.mnc111.mcc732.pub.3gppnetwork.org",
+    "ip": "190.102.205.10"
+  },
+  {
+    "country": "ec",
+    "fqdn": "epdg.epc.mnc001.mcc740.pub.3gppnetwork.org",
+    "ip": "200.25.222.130"
+  },
+  {
+    "country": "ec",
+    "fqdn": "epdg.epc.mnc001.mcc740.pub.3gppnetwork.org",
+    "ip": "190.111.80.199"
+  },
+  {
+    "country": "ec",
+    "fqdn": "epdg.epc.mnc002.mcc740.pub.3gppnetwork.org",
+    "ip": "200.85.85.20"
+  },
+  {
+    "country": "ec",
+    "fqdn": "epdg.epc.mnc002.mcc740.pub.3gppnetwork.org",
+    "ip": "200.85.85.22"
+  },
+  {
+    "country": "gf",
+    "fqdn": "epdg.epc.mnc001.mcc340.pub.3gppnetwork.org",
+    "ip": "81.52.215.129"
+  },
+  {
+    "country": "gf",
+    "fqdn": "epdg.epc.mnc001.mcc340.pub.3gppnetwork.org",
+    "ip": "81.52.214.129"
+  },
+  {
+    "country": "py",
+    "fqdn": "epdg.epc.mnc002.mcc744.pub.3gppnetwork.org",
+    "ip": "131.100.184.24"
+  },
+  {
+    "country": "py",
+    "fqdn": "epdg.epc.mnc002.mcc744.pub.3gppnetwork.org",
+    "ip": "131.100.184.25"
+  },
+  {
+    "country": "pe",
+    "fqdn": "epdg.epc.mnc006.mcc716.pub.3gppnetwork.org",
+    "ip": "201.230.206.157"
+  },
+  {
+    "country": "pe",
+    "fqdn": "epdg.epc.mnc006.mcc716.pub.3gppnetwork.org",
+    "ip": "181.66.71.32"
+  },
+  {
+    "country": "pe",
+    "fqdn": "epdg.epc.mnc006.mcc716.pub.3gppnetwork.org",
+    "ip": "181.66.71.22"
+  },
+  {
+    "country": "pe",
+    "fqdn": "epdg.epc.mnc006.mcc716.pub.3gppnetwork.org",
+    "ip": "201.230.206.7"
+  },
+  {
+    "country": "uy",
+    "fqdn": "epdg.epc.mnc010.mcc748.pub.3gppnetwork.org",
+    "ip": "131.100.108.127"
+  },
+  {
+    "country": "uy",
+    "fqdn": "epdg.epc.mnc010.mcc748.pub.3gppnetwork.org",
+    "ip": "131.100.108.126"
+  },
+  {
+    "country": "uy",
+    "fqdn": "epdg.epc.mnc007.mcc748.pub.3gppnetwork.org",
+    "ip": "186.8.59.96"
+  },
+  {
+    "country": "uy",
+    "fqdn": "epdg.epc.mnc007.mcc748.pub.3gppnetwork.org",
+    "ip": "186.8.59.128"
+  },
+  {
+    "country": "al",
+    "fqdn": "epdg.epc.mnc002.mcc276.pub.3gppnetwork.org",
+    "ip": "79.171.50.212"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc017.mcc232.pub.3gppnetwork.org",
+    "ip": "83.216.33.116"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc017.mcc232.pub.3gppnetwork.org",
+    "ip": "83.216.32.116"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc001.mcc232.pub.3gppnetwork.org",
+    "ip": "188.21.252.241"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc001.mcc232.pub.3gppnetwork.org",
+    "ip": "188.21.252.240"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc001.mcc232.pub.3gppnetwork.org",
+    "ip": "188.21.252.239"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc011.mcc232.pub.3gppnetwork.org",
+    "ip": "188.21.252.241"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc011.mcc232.pub.3gppnetwork.org",
+    "ip": "188.21.252.240"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc011.mcc232.pub.3gppnetwork.org",
+    "ip": "188.21.252.239"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc012.mcc232.pub.3gppnetwork.org",
+    "ip": "188.21.252.241"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc012.mcc232.pub.3gppnetwork.org",
+    "ip": "188.21.252.240"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc012.mcc232.pub.3gppnetwork.org",
+    "ip": "188.21.252.239"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc014.mcc232.pub.3gppnetwork.org",
+    "ip": "213.94.74.226"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc005.mcc232.pub.3gppnetwork.org",
+    "ip": "213.94.78.29"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc005.mcc232.pub.3gppnetwork.org",
+    "ip": "213.94.78.30"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc005.mcc232.pub.3gppnetwork.org",
+    "ip": "213.94.78.31"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc005.mcc232.pub.3gppnetwork.org",
+    "ip": "213.94.78.28"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc010.mcc232.pub.3gppnetwork.org",
+    "ip": "213.94.78.28"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc003.mcc232.pub.3gppnetwork.org",
+    "ip": "213.142.105.74"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc003.mcc232.pub.3gppnetwork.org",
+    "ip": "213.142.105.73"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc003.mcc232.pub.3gppnetwork.org",
+    "ip": "213.142.105.75"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc003.mcc232.pub.3gppnetwork.org",
+    "ip": "213.142.105.76"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc007.mcc232.pub.3gppnetwork.org",
+    "ip": "213.142.105.74"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc007.mcc232.pub.3gppnetwork.org",
+    "ip": "213.142.105.73"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc007.mcc232.pub.3gppnetwork.org",
+    "ip": "213.142.105.75"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc007.mcc232.pub.3gppnetwork.org",
+    "ip": "213.142.105.76"
+  },
+  {
+    "country": "at",
+    "fqdn": "epdg.epc.mnc013.mcc232.pub.3gppnetwork.org",
+    "ip": "213.162.90.41"
+  },
+  {
+    "country": "by",
+    "fqdn": "epdg.epc.mnc001.mcc257.pub.3gppnetwork.org",
+    "ip": "128.140.255.91"
+  },
+  {
+    "country": "by",
+    "fqdn": "epdg.epc.mnc001.mcc257.pub.3gppnetwork.org",
+    "ip": "128.140.255.59"
+  },
+  {
+    "country": "by",
+    "fqdn": "epdg.epc.mnc001.mcc257.pub.3gppnetwork.org",
+    "ip": "128.140.255.27"
+  },
+  {
+    "country": "be",
+    "fqdn": "epdg.epc.mnc001.mcc206.pub.3gppnetwork.org",
+    "ip": "81.169.63.80"
+  },
+  {
+    "country": "be",
+    "fqdn": "epdg.epc.mnc001.mcc206.pub.3gppnetwork.org",
+    "ip": "81.169.63.88"
+  },
+  {
+    "country": "be",
+    "fqdn": "epdg.epc.mnc008.mcc206.pub.3gppnetwork.org",
+    "ip": "185.3.163.80"
+  },
+  {
+    "country": "be",
+    "fqdn": "epdg.epc.mnc008.mcc206.pub.3gppnetwork.org",
+    "ip": "185.3.162.80"
+  },
+  {
+    "country": "be",
+    "fqdn": "epdg.epc.mnc010.mcc206.pub.3gppnetwork.org",
+    "ip": "212.224.253.170"
+  },
+  {
+    "country": "be",
+    "fqdn": "epdg.epc.mnc010.mcc206.pub.3gppnetwork.org",
+    "ip": "212.224.253.168"
+  },
+  {
+    "country": "be",
+    "fqdn": "epdg.telco.telenet-ops.be",
+    "ip": "213.251.80.74"
+  },
+  {
+    "country": "be",
+    "fqdn": "epdg.telco.telenet-ops.be",
+    "ip": "213.251.80.75"
+  },
+  {
+    "country": "bg",
+    "fqdn": "epdg.epc.mnc003.mcc284.pub.3gppnetwork.org",
+    "ip": "212.5.145.225"
+  },
+  {
+    "country": "bg",
+    "fqdn": "epdg.epc.mnc003.mcc284.pub.3gppnetwork.org",
+    "ip": "212.5.145.224"
+  },
+  {
+    "country": "bg",
+    "fqdn": "epdg.epc.mnc001.mcc284.pub.3gppnetwork.org",
+    "ip": "213.226.0.178"
+  },
+  {
+    "country": "bg",
+    "fqdn": "epdg.epc.mnc001.mcc284.pub.3gppnetwork.org",
+    "ip": "213.226.0.176"
+  },
+  {
+    "country": "hr",
+    "fqdn": "epdg.epc.mnc002.mcc219.pub.3gppnetwork.org",
+    "ip": "86.33.248.210"
+  },
+  {
+    "country": "hr",
+    "fqdn": "epdg.epc.mnc002.mcc219.pub.3gppnetwork.org",
+    "ip": "86.33.248.82"
+  },
+  {
+    "country": "hr",
+    "fqdn": "epdg.epc.mnc001.mcc219.pub.3gppnetwork.org",
+    "ip": "195.29.253.235"
+  },
+  {
+    "country": "hr",
+    "fqdn": "epdg.epc.mnc001.mcc219.pub.3gppnetwork.org",
+    "ip": "195.29.253.164"
+  },
+  {
+    "country": "hr",
+    "fqdn": "epdg.epc.mnc001.mcc219.pub.3gppnetwork.org",
+    "ip": "195.29.253.234"
+  },
+  {
+    "country": "hr",
+    "fqdn": "epdg.epc.mnc010.mcc219.pub.3gppnetwork.org",
+    "ip": "212.91.113.210"
+  },
+  {
+    "country": "hr",
+    "fqdn": "epdg.epc.mnc010.mcc219.pub.3gppnetwork.org",
+    "ip": "212.91.113.181"
+  },
+  {
+    "country": "cy",
+    "fqdn": "epdg.epc.mnc020.mcc280.pub.3gppnetwork.org",
+    "ip": "81.21.46.33"
+  },
+  {
+    "country": "cy",
+    "fqdn": "epdg.epc.mnc020.mcc280.pub.3gppnetwork.org",
+    "ip": "81.21.46.65"
+  },
+  {
+    "country": "cy",
+    "fqdn": "epdg.epc.mnc001.mcc280.pub.3gppnetwork.org",
+    "ip": "212.31.122.115"
+  },
+  {
+    "country": "cy",
+    "fqdn": "epdg.epc.mnc001.mcc280.pub.3gppnetwork.org",
+    "ip": "212.31.96.115"
+  },
+  {
+    "country": "cz",
+    "fqdn": "epdg.epc.mnc003.mcc230.pub.3gppnetwork.org",
+    "ip": "31.30.69.152"
+  },
+  {
+    "country": "cz",
+    "fqdn": "epdg.epc.mnc003.mcc230.pub.3gppnetwork.org",
+    "ip": "31.30.69.153"
+  },
+  {
+    "country": "cz",
+    "fqdn": "epdg.epc.mnc001.mcc230.pub.3gppnetwork.org",
+    "ip": "62.141.11.59"
+  },
+  {
+    "country": "cz",
+    "fqdn": "epdg.epc.mnc001.mcc230.pub.3gppnetwork.org",
+    "ip": "62.141.11.56"
+  },
+  {
+    "country": "cz",
+    "fqdn": "epdg.epc.mnc001.mcc230.pub.3gppnetwork.org",
+    "ip": "62.141.11.101"
+  },
+  {
+    "country": "cz",
+    "fqdn": "epdg.epc.mnc002.mcc230.pub.3gppnetwork.org",
+    "ip": "160.218.3.2"
+  },
+  {
+    "country": "cz",
+    "fqdn": "epdg.epc.mnc002.mcc230.pub.3gppnetwork.org",
+    "ip": "160.218.3.4"
+  },
+  {
+    "country": "dk",
+    "fqdn": "epdg.epc.mnc020.mcc238.pub.3gppnetwork.org",
+    "ip": "62.44.140.235"
+  },
+  {
+    "country": "dk",
+    "fqdn": "epdg.epc.mnc020.mcc238.pub.3gppnetwork.org",
+    "ip": "62.44.162.147"
+  },
+  {
+    "country": "dk",
+    "fqdn": "epdg.epc.mnc010.mcc238.pub.3gppnetwork.org",
+    "ip": "62.135.161.132"
+  },
+  {
+    "country": "dk",
+    "fqdn": "epdg.epc.mnc010.mcc238.pub.3gppnetwork.org",
+    "ip": "62.135.161.44"
+  },
+  {
+    "country": "dk",
+    "fqdn": "epdg.epc.mnc001.mcc238.pub.3gppnetwork.org",
+    "ip": "62.243.140.72"
+  },
+  {
+    "country": "dk",
+    "fqdn": "epdg.epc.mnc001.mcc238.pub.3gppnetwork.org",
+    "ip": "195.215.226.64"
+  },
+  {
+    "country": "dk",
+    "fqdn": "epdg.epc.mnc001.mcc238.pub.3gppnetwork.org",
+    "ip": "195.215.224.64"
+  },
+  {
+    "country": "dk",
+    "fqdn": "epdg.epc.mnc002.mcc238.pub.3gppnetwork.org",
+    "ip": "77.214.4.160"
+  },
+  {
+    "country": "dk",
+    "fqdn": "epdg.epc.mnc002.mcc238.pub.3gppnetwork.org",
+    "ip": "77.214.4.161"
+  },
+  {
+    "country": "dk",
+    "fqdn": "epdg.epc.mnc006.mcc238.pub.3gppnetwork.org",
+    "ip": "79.138.136.4"
+  },
+  {
+    "country": "dk",
+    "fqdn": "epdg.epc.mnc006.mcc238.pub.3gppnetwork.org",
+    "ip": "79.138.136.3"
+  },
+  {
+    "country": "ee",
+    "fqdn": "epdg.epc.mnc002.mcc248.pub.3gppnetwork.org",
+    "ip": "194.204.13.252"
+  },
+  {
+    "country": "ee",
+    "fqdn": "epdg.epc.mnc002.mcc248.pub.3gppnetwork.org",
+    "ip": "194.204.13.253"
+  },
+  {
+    "country": "ee",
+    "fqdn": "epdg.epc.mnc001.mcc248.pub.3gppnetwork.org",
+    "ip": "195.50.247.190"
+  },
+  {
+    "country": "ee",
+    "fqdn": "epdg.epc.mnc001.mcc248.pub.3gppnetwork.org",
+    "ip": "195.50.247.191"
+  },
+  {
+    "country": "ee",
+    "fqdn": "epdg.epc.mnc003.mcc248.pub.3gppnetwork.org",
+    "ip": "213.102.142.11"
+  },
+  {
+    "country": "ee",
+    "fqdn": "epdg.epc.mnc003.mcc248.pub.3gppnetwork.org",
+    "ip": "213.102.142.27"
+  },
+  {
+    "country": "fi",
+    "fqdn": "epdg.epc.mnc091.mcc244.pub.3gppnetwork.org",
+    "ip": "194.142.89.104"
+  },
+  {
+    "country": "fi",
+    "fqdn": "epdg.epc.mnc091.mcc244.pub.3gppnetwork.org",
+    "ip": "194.142.89.232"
+  },
+  {
+    "country": "fi",
+    "fqdn": "epdg.epc.mnc005.mcc244.pub.3gppnetwork.org",
+    "ip": "213.161.47.19"
+  },
+  {
+    "country": "fi",
+    "fqdn": "epdg.epc.mnc005.mcc244.pub.3gppnetwork.org",
+    "ip": "213.161.47.18"
+  },
+  {
+    "country": "fi",
+    "fqdn": "epdg.epc.mnc005.mcc244.pub.3gppnetwork.org",
+    "ip": "213.161.47.20"
+  },
+  {
+    "country": "fi",
+    "fqdn": "epdg.epc.mnc013.mcc244.pub.3gppnetwork.org",
+    "ip": "213.216.202.76"
+  },
+  {
+    "country": "fi",
+    "fqdn": "epdg.epc.mnc012.mcc244.pub.3gppnetwork.org",
+    "ip": "213.216.202.77"
+  },
+  {
+    "country": "fi",
+    "fqdn": "epdg.epc.mnc012.mcc244.pub.3gppnetwork.org",
+    "ip": "213.216.202.78"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc020.mcc208.pub.3gppnetwork.org",
+    "ip": "62.201.149.82"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc020.mcc208.pub.3gppnetwork.org",
+    "ip": "62.201.149.81"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc001.mcc208.pub.3gppnetwork.org",
+    "ip": "80.12.36.221"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc001.mcc208.pub.3gppnetwork.org",
+    "ip": "80.12.25.138"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc038.mcc208.pub.3gppnetwork.org",
+    "ip": "84.246.115.151"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc038.mcc208.pub.3gppnetwork.org",
+    "ip": "84.246.113.151"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc010.mcc208.pub.3gppnetwork.org",
+    "ip": "92.90.28.2"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc010.mcc208.pub.3gppnetwork.org",
+    "ip": "92.90.28.3"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc010.mcc208.pub.3gppnetwork.org",
+    "ip": "92.90.28.1"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc010.mcc208.pub.3gppnetwork.org",
+    "ip": "92.90.28.4"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc027.mcc208.pub.3gppnetwork.org",
+    "ip": "92.90.28.2"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc027.mcc208.pub.3gppnetwork.org",
+    "ip": "92.90.28.1"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc027.mcc208.pub.3gppnetwork.org",
+    "ip": "92.90.28.3"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc017.mcc208.pub.3gppnetwork.org",
+    "ip": "185.20.10.213"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc026.mcc208.pub.3gppnetwork.org",
+    "ip": "193.56.244.208"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc026.mcc208.pub.3gppnetwork.org",
+    "ip": "193.56.245.208"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc015.mcc208.pub.3gppnetwork.org",
+    "ip": "212.27.34.147"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc015.mcc208.pub.3gppnetwork.org",
+    "ip": "212.27.34.142"
+  },
+  {
+    "country": "fr",
+    "fqdn": "epdg.epc.mnc015.mcc208.pub.3gppnetwork.org",
+    "ip": "212.27.34.146"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc023.mcc262.pub.3gppnetwork.org",
+    "ip": "61.8.143.2"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc023.mcc262.pub.3gppnetwork.org",
+    "ip": "61.8.156.2"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc023.mcc262.pub.3gppnetwork.org",
+    "ip": "61.8.148.2"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc023.mcc262.pub.3gppnetwork.org",
+    "ip": "61.8.132.2"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc003.mcc262.pub.3gppnetwork.org",
+    "ip": "62.52.52.30"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc003.mcc262.pub.3gppnetwork.org",
+    "ip": "213.20.151.16"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc003.mcc262.pub.3gppnetwork.org",
+    "ip": "213.20.31.8"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc007.mcc262.pub.3gppnetwork.org",
+    "ip": "213.20.151.16"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc007.mcc262.pub.3gppnetwork.org",
+    "ip": "213.20.31.8"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc007.mcc262.pub.3gppnetwork.org",
+    "ip": "62.52.52.30"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc020.mcc262.pub.3gppnetwork.org",
+    "ip": "94.247.7.71"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.157"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.158"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.143"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.147"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.153"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.149"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.151"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.155"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.159"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.146"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.154"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.150"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.141"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.145"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc001.mcc262.pub.3gppnetwork.org",
+    "ip": "109.237.187.142"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc009.mcc262.pub.3gppnetwork.org",
+    "ip": "139.7.2.202"
+  },
+  {
+    "country": "de",
+    "fqdn": "epdg.epc.mnc009.mcc262.pub.3gppnetwork.org",
+    "ip": "139.7.2.205"
+  },
+  {
+    "country": "gr",
+    "fqdn": "epdg.epc.mnc005.mcc202.pub.3gppnetwork.org",
+    "ip": "62.74.30.36"
+  },
+  {
+    "country": "gr",
+    "fqdn": "epdg.epc.mnc005.mcc202.pub.3gppnetwork.org",
+    "ip": "62.74.30.4"
+  },
+  {
+    "country": "gr",
+    "fqdn": "epdg.epc.mnc010.mcc202.pub.3gppnetwork.org",
+    "ip": "84.254.12.97"
+  },
+  {
+    "country": "gr",
+    "fqdn": "epdg.epc.mnc010.mcc202.pub.3gppnetwork.org",
+    "ip": "84.254.12.96"
+  },
+  {
+    "country": "gr",
+    "fqdn": "epdg.epc.mnc001.mcc202.pub.3gppnetwork.org",
+    "ip": "94.143.177.210"
+  },
+  {
+    "country": "gr",
+    "fqdn": "epdg.epc.mnc001.mcc202.pub.3gppnetwork.org",
+    "ip": "94.143.176.242"
+  },
+  {
+    "country": "gr",
+    "fqdn": "epdg.epc.mnc001.mcc202.pub.3gppnetwork.org",
+    "ip": "94.143.178.220"
+  },
+  {
+    "country": "hu",
+    "fqdn": "epdg.epc.mnc070.mcc216.pub.3gppnetwork.org",
+    "ip": "80.244.97.254"
+  },
+  {
+    "country": "hu",
+    "fqdn": "epdg.epc.mnc070.mcc216.pub.3gppnetwork.org",
+    "ip": "80.244.97.255"
+  },
+  {
+    "country": "hu",
+    "fqdn": "epdg.epc.mnc030.mcc216.pub.3gppnetwork.org",
+    "ip": "212.51.127.131"
+  },
+  {
+    "country": "hu",
+    "fqdn": "epdg.epc.mnc030.mcc216.pub.3gppnetwork.org",
+    "ip": "212.51.127.132"
+  },
+  {
+    "country": "hu",
+    "fqdn": "epdg.epc.mnc001.mcc216.pub.3gppnetwork.org",
+    "ip": "217.79.139.41"
+  },
+  {
+    "country": "hu",
+    "fqdn": "epdg.epc.mnc001.mcc216.pub.3gppnetwork.org",
+    "ip": "217.79.139.33"
+  },
+  {
+    "country": "is",
+    "fqdn": "epdg.epc.mnc011.mcc274.pub.3gppnetwork.org",
+    "ip": "78.40.249.219"
+  },
+  {
+    "country": "is",
+    "fqdn": "epdg.epc.mnc011.mcc274.pub.3gppnetwork.org",
+    "ip": "78.40.249.216"
+  },
+  {
+    "country": "is",
+    "fqdn": "epdg.epc.mnc001.mcc274.pub.3gppnetwork.org",
+    "ip": "194.105.253.253"
+  },
+  {
+    "country": "is",
+    "fqdn": "epdg.epc.mnc001.mcc274.pub.3gppnetwork.org",
+    "ip": "194.105.253.252"
+  },
+  {
+    "country": "is",
+    "fqdn": "epdg.epc.mnc002.mcc274.pub.3gppnetwork.org",
+    "ip": "194.144.230.69"
+  },
+  {
+    "country": "is",
+    "fqdn": "epdg.epc.mnc002.mcc274.pub.3gppnetwork.org",
+    "ip": "194.144.230.65"
+  },
+  {
+    "country": "ie",
+    "fqdn": "epdg.epc.mnc003.mcc272.pub.3gppnetwork.org",
+    "ip": "86.43.56.36"
+  },
+  {
+    "country": "ie",
+    "fqdn": "epdg.epc.mnc003.mcc272.pub.3gppnetwork.org",
+    "ip": "86.43.56.37"
+  },
+  {
+    "country": "ie",
+    "fqdn": "epdg.epc.mnc001.mcc272.pub.3gppnetwork.org",
+    "ip": "213.233.148.33"
+  },
+  {
+    "country": "ie",
+    "fqdn": "epdg.epc.mnc001.mcc272.pub.3gppnetwork.org",
+    "ip": "89.19.64.254"
+  },
+  {
+    "country": "ie",
+    "fqdn": "epdg.epc.mnc001.mcc272.pub.3gppnetwork.org",
+    "ip": "89.19.64.93"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc050.mcc222.pub.3gppnetwork.org",
+    "ip": "83.158.8.11"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc050.mcc222.pub.3gppnetwork.org",
+    "ip": "83.158.8.12"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc056.mcc222.pub.3gppnetwork.org",
+    "ip": "83.216.33.116"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc056.mcc222.pub.3gppnetwork.org",
+    "ip": "83.216.32.116"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc010.mcc222.pub.3gppnetwork.org",
+    "ip": "91.81.133.33"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc010.mcc222.pub.3gppnetwork.org",
+    "ip": "91.81.133.32"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.144"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.5"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.2"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.8"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.136"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.4"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.7"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.3"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.145"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.6"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.134"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.132"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.135"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.130"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc088.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.133"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.133"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.144"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.2"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.134"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.136"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.4"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.7"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.3"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.145"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.135"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.8"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.6"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.5"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.130"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc099.mcc222.pub.3gppnetwork.org",
+    "ip": "151.58.176.132"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc001.mcc222.pub.3gppnetwork.org",
+    "ip": "217.200.184.107"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc001.mcc222.pub.3gppnetwork.org",
+    "ip": "217.200.184.104"
+  },
+  {
+    "country": "it",
+    "fqdn": "epdg.epc.mnc001.mcc222.pub.3gppnetwork.org",
+    "ip": "217.200.184.114"
+  },
+  {
+    "country": "lv",
+    "fqdn": "epdg.epc.mnc002.mcc247.pub.3gppnetwork.org",
+    "ip": "83.178.78.43"
+  },
+  {
+    "country": "lv",
+    "fqdn": "epdg.epc.mnc002.mcc247.pub.3gppnetwork.org",
+    "ip": "83.178.78.27"
+  },
+  {
+    "country": "lv",
+    "fqdn": "epdg.epc.mnc005.mcc247.pub.3gppnetwork.org",
+    "ip": "185.189.154.172"
+  },
+  {
+    "country": "lv",
+    "fqdn": "epdg.epc.mnc005.mcc247.pub.3gppnetwork.org",
+    "ip": "185.189.154.236"
+  },
+  {
+    "country": "lv",
+    "fqdn": "epdg.epc.mnc001.mcc247.pub.3gppnetwork.org",
+    "ip": "212.3.202.29"
+  },
+  {
+    "country": "lv",
+    "fqdn": "epdg.epc.mnc001.mcc247.pub.3gppnetwork.org",
+    "ip": "212.3.202.201"
+  },
+  {
+    "country": "lt",
+    "fqdn": "epdg.epc.mnc001.mcc246.pub.3gppnetwork.org",
+    "ip": "88.119.202.200"
+  },
+  {
+    "country": "lt",
+    "fqdn": "epdg.epc.mnc001.mcc246.pub.3gppnetwork.org",
+    "ip": "88.119.202.201"
+  },
+  {
+    "country": "lt",
+    "fqdn": "epdg.epc.mnc002.mcc246.pub.3gppnetwork.org",
+    "ip": "185.189.154.44"
+  },
+  {
+    "country": "lt",
+    "fqdn": "epdg.epc.mnc003.mcc246.pub.3gppnetwork.org",
+    "ip": "213.103.174.27"
+  },
+  {
+    "country": "lt",
+    "fqdn": "epdg.epc.mnc003.mcc246.pub.3gppnetwork.org",
+    "ip": "213.103.174.11"
+  },
+  {
+    "country": "lu",
+    "fqdn": "epdg.epc.mnc002.mcc270.pub.3gppnetwork.org",
+    "ip": "185.11.40.91"
+  },
+  {
+    "country": "lu",
+    "fqdn": "epdg.epc.mnc077.mcc270.pub.3gppnetwork.org",
+    "ip": "212.66.71.6"
+  },
+  {
+    "country": "lu",
+    "fqdn": "epdg.epc.mnc077.mcc270.pub.3gppnetwork.org",
+    "ip": "212.66.71.15"
+  },
+  {
+    "country": "lu",
+    "fqdn": "epdg.epc.mnc099.mcc270.pub.3gppnetwork.org",
+    "ip": "212.224.253.170"
+  },
+  {
+    "country": "lu",
+    "fqdn": "epdg.epc.mnc099.mcc270.pub.3gppnetwork.org",
+    "ip": "212.224.253.168"
+  },
+  {
+    "country": "lu",
+    "fqdn": "epdg.epc.mnc001.mcc270.pub.3gppnetwork.org",
+    "ip": "213.166.32.185"
+  },
+  {
+    "country": "lu",
+    "fqdn": "epdg.epc.mnc001.mcc270.pub.3gppnetwork.org",
+    "ip": "213.166.32.184"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc008.mcc204.pub.3gppnetwork.org",
+    "ip": "62.133.76.250"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc008.mcc204.pub.3gppnetwork.org",
+    "ip": "62.133.76.249"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc008.mcc204.pub.3gppnetwork.org",
+    "ip": "62.133.76.251"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc069.mcc204.pub.3gppnetwork.org",
+    "ip": "83.232.33.106"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc020.mcc204.pub.3gppnetwork.org",
+    "ip": "84.241.236.221"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc020.mcc204.pub.3gppnetwork.org",
+    "ip": "84.241.236.218"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc020.mcc204.pub.3gppnetwork.org",
+    "ip": "84.241.236.217"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc020.mcc204.pub.3gppnetwork.org",
+    "ip": "84.241.236.220"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc020.mcc204.pub.3gppnetwork.org",
+    "ip": "84.241.236.222"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc020.mcc204.pub.3gppnetwork.org",
+    "ip": "84.241.236.219"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc016.mcc204.pub.3gppnetwork.org",
+    "ip": "84.241.238.73"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc016.mcc204.pub.3gppnetwork.org",
+    "ip": "84.241.238.75"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc016.mcc204.pub.3gppnetwork.org",
+    "ip": "84.241.238.74"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc017.mcc204.pub.3gppnetwork.org",
+    "ip": "84.246.115.151"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc017.mcc204.pub.3gppnetwork.org",
+    "ip": "84.246.113.151"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc003.mcc204.pub.3gppnetwork.org",
+    "ip": "94.247.7.74"
+  },
+  {
+    "country": "nl",
+    "fqdn": "epdg.epc.mnc004.mcc204.pub.3gppnetwork.org",
+    "ip": "109.39.144.148"
+  },
+  {
+    "country": "no",
+    "fqdn": "epdg.epc.mnc001.mcc242.pub.3gppnetwork.org",
+    "ip": "77.16.1.5"
+  },
+  {
+    "country": "no",
+    "fqdn": "epdg.epc.mnc001.mcc242.pub.3gppnetwork.org",
+    "ip": "77.16.1.3"
+  },
+  {
+    "country": "no",
+    "fqdn": "epdg.epc.mnc015.mcc242.pub.3gppnetwork.org",
+    "ip": "77.16.1.5"
+  },
+  {
+    "country": "no",
+    "fqdn": "epdg.epc.mnc015.mcc242.pub.3gppnetwork.org",
+    "ip": "77.16.1.3"
+  },
+  {
+    "country": "no",
+    "fqdn": "epdg.epc.mnc002.mcc242.pub.3gppnetwork.org",
+    "ip": "89.9.91.184"
+  },
+  {
+    "country": "no",
+    "fqdn": "epdg.epc.mnc002.mcc242.pub.3gppnetwork.org",
+    "ip": "89.9.95.184"
+  },
+  {
+    "country": "no",
+    "fqdn": "epdg.epc.mnc005.mcc242.pub.3gppnetwork.org",
+    "ip": "89.9.95.184"
+  },
+  {
+    "country": "no",
+    "fqdn": "epdg.epc.mnc005.mcc242.pub.3gppnetwork.org",
+    "ip": "89.9.91.184"
+  },
+  {
+    "country": "no",
+    "fqdn": "epdg.epc.mnc008.mcc242.pub.3gppnetwork.org",
+    "ip": "195.41.220.240"
+  },
+  {
+    "country": "no",
+    "fqdn": "epdg.epc.mnc008.mcc242.pub.3gppnetwork.org",
+    "ip": "195.41.220.241"
+  },
+  {
+    "country": "no",
+    "fqdn": "epdg.epc.mnc014.mcc242.pub.3gppnetwork.org",
+    "ip": "217.13.9.76"
+  },
+  {
+    "country": "pl",
+    "fqdn": "epdg.epc.mnc001.mcc260.pub.3gppnetwork.org",
+    "ip": "31.0.184.80"
+  },
+  {
+    "country": "pl",
+    "fqdn": "epdg.epc.mnc001.mcc260.pub.3gppnetwork.org",
+    "ip": "37.248.184.80"
+  },
+  {
+    "country": "pl",
+    "fqdn": "epdg.epc.mnc098.mcc260.pub.3gppnetwork.org",
+    "ip": "89.108.195.110"
+  },
+  {
+    "country": "pl",
+    "fqdn": "epdg.epc.mnc006.mcc260.pub.3gppnetwork.org",
+    "ip": "89.108.200.112"
+  },
+  {
+    "country": "pl",
+    "fqdn": "epdg.epc.mnc002.mcc260.pub.3gppnetwork.org",
+    "ip": "178.182.200.131"
+  },
+  {
+    "country": "pl",
+    "fqdn": "epdg.epc.mnc002.mcc260.pub.3gppnetwork.org",
+    "ip": "178.182.200.31"
+  },
+  {
+    "country": "pl",
+    "fqdn": "epdg.epc.mnc002.mcc260.pub.3gppnetwork.org",
+    "ip": "178.182.201.31"
+  },
+  {
+    "country": "pl",
+    "fqdn": "epdg.epc.mnc003.mcc260.pub.3gppnetwork.org",
+    "ip": "217.116.102.23"
+  },
+  {
+    "country": "pl",
+    "fqdn": "epdg.epc.mnc003.mcc260.pub.3gppnetwork.org",
+    "ip": "217.116.102.17"
+  },
+  {
+    "country": "pl",
+    "fqdn": "epdg.epc.mnc003.mcc260.pub.3gppnetwork.org",
+    "ip": "217.116.102.22"
+  },
+  {
+    "country": "pl",
+    "fqdn": "epdg.epc.mnc003.mcc260.pub.3gppnetwork.org",
+    "ip": "217.116.102.24"
+  },
+  {
+    "country": "pl",
+    "fqdn": "epdg.epc.mnc003.mcc260.pub.3gppnetwork.org",
+    "ip": "217.116.100.15"
+  },
+  {
+    "country": "pl",
+    "fqdn": "epdg.epc.mnc003.mcc260.pub.3gppnetwork.org",
+    "ip": "217.116.102.25"
+  },
+  {
+    "country": "pt",
+    "fqdn": "epdg.epc.mnc006.mcc268.pub.3gppnetwork.org",
+    "ip": "88.214.178.122"
+  },
+  {
+    "country": "pt",
+    "fqdn": "epdg.epc.mnc003.mcc268.pub.3gppnetwork.org",
+    "ip": "212.113.164.234"
+  },
+  {
+    "country": "pt",
+    "fqdn": "epdg.epc.mnc003.mcc268.pub.3gppnetwork.org",
+    "ip": "212.113.164.233"
+  },
+  {
+    "country": "pt",
+    "fqdn": "epdg.epc.mnc002.mcc268.pub.3gppnetwork.org",
+    "ip": "217.28.143.120"
+  },
+  {
+    "country": "pt",
+    "fqdn": "epdg.epc.mnc002.mcc268.pub.3gppnetwork.org",
+    "ip": "217.28.143.56"
+  },
+  {
+    "country": "ro",
+    "fqdn": "epdg.epc.mnc001.mcc226.pub.3gppnetwork.org",
+    "ip": "46.97.10.152"
+  },
+  {
+    "country": "ro",
+    "fqdn": "epdg.epc.mnc001.mcc226.pub.3gppnetwork.org",
+    "ip": "46.97.10.153"
+  },
+  {
+    "country": "ro",
+    "fqdn": "epdg.epc.mnc005.mcc226.pub.3gppnetwork.org",
+    "ip": "82.137.15.250"
+  },
+  {
+    "country": "ro",
+    "fqdn": "epdg.epc.mnc005.mcc226.pub.3gppnetwork.org",
+    "ip": "82.137.15.252"
+  },
+  {
+    "country": "ro",
+    "fqdn": "epdg.epc.mnc005.mcc226.pub.3gppnetwork.org",
+    "ip": "82.137.15.207"
+  },
+  {
+    "country": "ro",
+    "fqdn": "epdg.epc.mnc010.mcc226.pub.3gppnetwork.org",
+    "ip": "109.166.155.232"
+  },
+  {
+    "country": "ro",
+    "fqdn": "epdg.epc.mnc010.mcc226.pub.3gppnetwork.org",
+    "ip": "93.113.56.233"
+  },
+  {
+    "country": "ro",
+    "fqdn": "epdg.epc.mnc010.mcc226.pub.3gppnetwork.org",
+    "ip": "109.166.155.233"
+  },
+  {
+    "country": "ro",
+    "fqdn": "epdg.epc.mnc010.mcc226.pub.3gppnetwork.org",
+    "ip": "93.113.56.232"
+  },
+  {
+    "country": "ro",
+    "fqdn": "epdg.epc.mnc003.mcc226.pub.3gppnetwork.org",
+    "ip": "178.138.39.1"
+  },
+  {
+    "country": "ro",
+    "fqdn": "epdg.epc.mnc003.mcc226.pub.3gppnetwork.org",
+    "ip": "178.138.38.1"
+  },
+  {
+    "country": "ru",
+    "fqdn": "epdg.epc.mnc002.mcc250.pub.3gppnetwork.org",
+    "ip": "31.173.34.209"
+  },
+  {
+    "country": "ru",
+    "fqdn": "epdg.epc.mnc002.mcc250.pub.3gppnetwork.org",
+    "ip": "85.26.231.145"
+  },
+  {
+    "country": "ru",
+    "fqdn": "epdg.epc.mnc011.mcc250.pub.3gppnetwork.org",
+    "ip": "31.173.34.209"
+  },
+  {
+    "country": "ru",
+    "fqdn": "epdg.epc.mnc099.mcc250.pub.3gppnetwork.org",
+    "ip": "85.249.19.248"
+  },
+  {
+    "country": "ru",
+    "fqdn": "epdg.epc.mnc099.mcc250.pub.3gppnetwork.org",
+    "ip": "85.249.16.248"
+  },
+  {
+    "country": "ru",
+    "fqdn": "epdg.epc.mnc016.mcc250.pub.3gppnetwork.org",
+    "ip": "91.206.88.80"
+  },
+  {
+    "country": "ru",
+    "fqdn": "epdg.epc.mnc020.mcc250.pub.3gppnetwork.org",
+    "ip": "176.59.159.190"
+  },
+  {
+    "country": "ru",
+    "fqdn": "epdg.epc.mnc020.mcc250.pub.3gppnetwork.org",
+    "ip": "176.59.63.79"
+  },
+  {
+    "country": "ru",
+    "fqdn": "epdg.epc.mnc020.mcc250.pub.3gppnetwork.org",
+    "ip": "176.59.159.191"
+  },
+  {
+    "country": "ru",
+    "fqdn": "epdg.epc.mnc020.mcc250.pub.3gppnetwork.org",
+    "ip": "176.59.63.78"
+  },
+  {
+    "country": "ru",
+    "fqdn": "epdg.epc.mnc050.mcc250.pub.3gppnetwork.org",
+    "ip": "185.185.148.36"
+  },
+  {
+    "country": "ru",
+    "fqdn": "epdg.epc.mnc001.mcc250.pub.3gppnetwork.org",
+    "ip": "213.87.142.77"
+  },
+  {
+    "country": "ru",
+    "fqdn": "epdg.epc.mnc035.mcc250.pub.3gppnetwork.org",
+    "ip": "217.148.52.254"
+  },
+  {
+    "country": "sk",
+    "fqdn": "epdg.epc.mnc003.mcc231.pub.3gppnetwork.org",
+    "ip": "84.245.112.74"
+  },
+  {
+    "country": "sk",
+    "fqdn": "epdg.epc.mnc001.mcc231.pub.3gppnetwork.org",
+    "ip": "213.151.204.237"
+  },
+  {
+    "country": "sk",
+    "fqdn": "epdg.epc.mnc001.mcc231.pub.3gppnetwork.org",
+    "ip": "85.237.227.21"
+  },
+  {
+    "country": "sk",
+    "fqdn": "epdg.epc.mnc006.mcc231.pub.3gppnetwork.org",
+    "ip": "90.176.30.1"
+  },
+  {
+    "country": "sk",
+    "fqdn": "epdg.epc.mnc006.mcc231.pub.3gppnetwork.org",
+    "ip": "90.176.30.2"
+  },
+  {
+    "country": "sk",
+    "fqdn": "epdg.epc.mnc002.mcc231.pub.3gppnetwork.org",
+    "ip": "195.91.54.2"
+  },
+  {
+    "country": "sk",
+    "fqdn": "epdg.epc.mnc002.mcc231.pub.3gppnetwork.org",
+    "ip": "195.91.54.1"
+  },
+  {
+    "country": "si",
+    "fqdn": "epdg.epc.mnc040.mcc293.pub.3gppnetwork.org",
+    "ip": "80.95.225.180"
+  },
+  {
+    "country": "si",
+    "fqdn": "epdg.epc.mnc040.mcc293.pub.3gppnetwork.org",
+    "ip": "80.95.225.176"
+  },
+  {
+    "country": "si",
+    "fqdn": "epdg.epc.mnc064.mcc293.pub.3gppnetwork.org",
+    "ip": "84.255.211.75"
+  },
+  {
+    "country": "si",
+    "fqdn": "epdg.epc.mnc041.mcc293.pub.3gppnetwork.org",
+    "ip": "213.229.192.67"
+  },
+  {
+    "country": "si",
+    "fqdn": "epdg.epc.mnc041.mcc293.pub.3gppnetwork.org",
+    "ip": "213.229.192.82"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc022.mcc214.pub.3gppnetwork.org",
+    "ip": "79.116.252.219"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc022.mcc214.pub.3gppnetwork.org",
+    "ip": "79.116.252.213"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc015.mcc214.pub.3gppnetwork.org",
+    "ip": "91.151.103.231"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc015.mcc214.pub.3gppnetwork.org",
+    "ip": "212.225.255.199"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc003.mcc214.pub.3gppnetwork.org",
+    "ip": "92.58.249.252"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc003.mcc214.pub.3gppnetwork.org",
+    "ip": "92.58.249.253"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc014.mcc214.pub.3gppnetwork.org",
+    "ip": "185.178.169.33"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc014.mcc214.pub.3gppnetwork.org",
+    "ip": "185.178.169.32"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc002.mcc214.pub.3gppnetwork.org",
+    "ip": "212.121.254.243"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc001.mcc214.pub.3gppnetwork.org",
+    "ip": "212.166.195.10"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc001.mcc214.pub.3gppnetwork.org",
+    "ip": "212.166.195.11"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc006.mcc214.pub.3gppnetwork.org",
+    "ip": "212.166.195.10"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc006.mcc214.pub.3gppnetwork.org",
+    "ip": "212.166.195.11"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc007.mcc214.pub.3gppnetwork.org",
+    "ip": "213.4.100.137"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc007.mcc214.pub.3gppnetwork.org",
+    "ip": "213.4.100.145"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc007.mcc214.pub.3gppnetwork.org",
+    "ip": "213.4.100.129"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc007.mcc214.pub.3gppnetwork.org",
+    "ip": "213.4.100.153"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc005.mcc214.pub.3gppnetwork.org",
+    "ip": "213.4.100.137"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc005.mcc214.pub.3gppnetwork.org",
+    "ip": "213.4.100.145"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc005.mcc214.pub.3gppnetwork.org",
+    "ip": "213.4.100.129"
+  },
+  {
+    "country": "es",
+    "fqdn": "epdg.epc.mnc005.mcc214.pub.3gppnetwork.org",
+    "ip": "213.4.100.153"
+  },
+  {
+    "country": "se",
+    "fqdn": "epdg.epc.mnc002.mcc240.pub.3gppnetwork.org",
+    "ip": "79.138.136.2"
+  },
+  {
+    "country": "se",
+    "fqdn": "epdg.epc.mnc002.mcc240.pub.3gppnetwork.org",
+    "ip": "79.138.136.1"
+  },
+  {
+    "country": "se",
+    "fqdn": "epdg.epc.mnc008.mcc240.pub.3gppnetwork.org",
+    "ip": "82.183.102.12"
+  },
+  {
+    "country": "se",
+    "fqdn": "epdg.epc.mnc008.mcc240.pub.3gppnetwork.org",
+    "ip": "82.183.102.4"
+  },
+  {
+    "country": "se",
+    "fqdn": "epdg.epc.mnc001.mcc240.pub.3gppnetwork.org",
+    "ip": "90.239.31.3"
+  },
+  {
+    "country": "se",
+    "fqdn": "epdg.epc.mnc001.mcc240.pub.3gppnetwork.org",
+    "ip": "90.233.1.40"
+  },
+  {
+    "country": "se",
+    "fqdn": "epdg.epc.mnc007.mcc240.pub.3gppnetwork.org",
+    "ip": "213.102.118.11"
+  },
+  {
+    "country": "se",
+    "fqdn": "epdg.epc.mnc007.mcc240.pub.3gppnetwork.org",
+    "ip": "213.102.118.27"
+  },
+  {
+    "country": "ch",
+    "fqdn": "epdg.epc.mnc001.mcc228.pub.3gppnetwork.org",
+    "ip": "138.188.106.251"
+  },
+  {
+    "country": "ch",
+    "fqdn": "epdg.epc.mnc001.mcc228.pub.3gppnetwork.org",
+    "ip": "138.188.106.253"
+  },
+  {
+    "country": "ch",
+    "fqdn": "epdg.epc.mnc001.mcc228.pub.3gppnetwork.org",
+    "ip": "138.188.106.254"
+  },
+  {
+    "country": "ch",
+    "fqdn": "epdg.epc.mnc002.mcc228.pub.3gppnetwork.org",
+    "ip": "194.230.148.254"
+  },
+  {
+    "country": "ch",
+    "fqdn": "epdg.epc.mnc002.mcc228.pub.3gppnetwork.org",
+    "ip": "194.230.147.254"
+  },
+  {
+    "country": "ch",
+    "fqdn": "epdg.epc.mnc003.mcc228.pub.3gppnetwork.org",
+    "ip": "213.55.135.249"
+  },
+  {
+    "country": "ch",
+    "fqdn": "epdg.epc.mnc003.mcc228.pub.3gppnetwork.org",
+    "ip": "213.55.134.249"
+  },
+  {
+    "country": "ua",
+    "fqdn": "epdg.epc.mnc001.mcc255.pub.3gppnetwork.org",
+    "ip": "77.52.213.127"
+  },
+  {
+    "country": "ua",
+    "fqdn": "epdg.epc.mnc001.mcc255.pub.3gppnetwork.org",
+    "ip": "77.52.213.63"
+  },
+  {
+    "country": "ua",
+    "fqdn": "epdg.epc.mnc003.mcc255.pub.3gppnetwork.org",
+    "ip": "81.23.22.231"
+  },
+  {
+    "country": "ua",
+    "fqdn": "epdg.epc.mnc006.mcc255.pub.3gppnetwork.org",
+    "ip": "212.58.172.228"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc053.mcc234.pub.3gppnetwork.org",
+    "ip": "37.18.128.254"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc030.mcc234.pub.3gppnetwork.org",
+    "ip": "46.68.57.32"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc030.mcc234.pub.3gppnetwork.org",
+    "ip": "46.68.58.10"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc030.mcc234.pub.3gppnetwork.org",
+    "ip": "46.68.59.19"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc033.mcc234.pub.3gppnetwork.org",
+    "ip": "46.68.57.32"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc033.mcc234.pub.3gppnetwork.org",
+    "ip": "46.68.58.10"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc033.mcc234.pub.3gppnetwork.org",
+    "ip": "46.68.59.19"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc071.mcc234.pub.3gppnetwork.org",
+    "ip": "46.68.57.32"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc071.mcc234.pub.3gppnetwork.org",
+    "ip": "46.68.58.10"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc071.mcc234.pub.3gppnetwork.org",
+    "ip": "46.68.59.19"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc008.mcc234.pub.3gppnetwork.org",
+    "ip": "62.6.163.99"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc008.mcc234.pub.3gppnetwork.org",
+    "ip": "81.131.31.229"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc038.mcc234.pub.3gppnetwork.org",
+    "ip": "62.254.96.98"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc038.mcc234.pub.3gppnetwork.org",
+    "ip": "80.0.253.2"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc040.mcc234.pub.3gppnetwork.org",
+    "ip": "83.216.33.116"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc040.mcc234.pub.3gppnetwork.org",
+    "ip": "83.216.32.116"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc010.mcc234.pub.3gppnetwork.org",
+    "ip": "87.194.9.8"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc010.mcc234.pub.3gppnetwork.org",
+    "ip": "87.194.88.8"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc010.mcc234.pub.3gppnetwork.org",
+    "ip": "87.194.89.8"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc010.mcc234.pub.3gppnetwork.org",
+    "ip": "87.194.8.8"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc015.mcc234.pub.3gppnetwork.org",
+    "ip": "148.252.188.96"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc015.mcc234.pub.3gppnetwork.org",
+    "ip": "88.82.11.221"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc015.mcc234.pub.3gppnetwork.org",
+    "ip": "88.82.11.208"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc057.mcc234.pub.3gppnetwork.org",
+    "ip": "185.110.178.77"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc057.mcc234.pub.3gppnetwork.org",
+    "ip": "185.110.178.76"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc057.mcc234.pub.3gppnetwork.org",
+    "ip": "185.110.178.140"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc057.mcc234.pub.3gppnetwork.org",
+    "ip": "185.110.178.141"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc094.mcc235.pub.3gppnetwork.org",
+    "ip": "185.153.236.97"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc094.mcc235.pub.3gppnetwork.org",
+    "ip": "185.153.236.96"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc020.mcc234.pub.3gppnetwork.org",
+    "ip": "185.153.237.96"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc055.mcc234.pub.3gppnetwork.org",
+    "ip": "212.30.15.204"
+  },
+  {
+    "country": "gb",
+    "fqdn": "epdg.epc.mnc055.mcc234.pub.3gppnetwork.org",
+    "ip": "212.30.15.205"
+  },
+  {
+    "country": "eg",
+    "fqdn": "epdg.epc.mnc001.mcc602.pub.3gppnetwork.org",
+    "ip": "41.91.248.205"
+  },
+  {
+    "country": "eg",
+    "fqdn": "epdg.epc.mnc001.mcc602.pub.3gppnetwork.org",
+    "ip": "41.91.248.207"
+  },
+  {
+    "country": "eg",
+    "fqdn": "epdg.epc.mnc001.mcc602.pub.3gppnetwork.org",
+    "ip": "41.91.248.206"
+  },
+  {
+    "country": "eg",
+    "fqdn": "epdg.epc.mnc002.mcc602.pub.3gppnetwork.org",
+    "ip": "105.198.254.100"
+  },
+  {
+    "country": "eg",
+    "fqdn": "epdg.epc.mnc003.mcc602.pub.3gppnetwork.org",
+    "ip": "105.203.255.84"
+  },
+  {
+    "country": "eg",
+    "fqdn": "epdg.epc.mnc004.mcc602.pub.3gppnetwork.org",
+    "ip": "156.200.1.177"
+  },
+  {
+    "country": "eg",
+    "fqdn": "epdg.epc.mnc004.mcc602.pub.3gppnetwork.org",
+    "ip": "156.200.1.95"
+  },
+  {
+    "country": "gh",
+    "fqdn": "epdg.epc.mnc001.mcc620.pub.3gppnetwork.org",
+    "ip": "41.189.161.185"
+  },
+  {
+    "country": "gh",
+    "fqdn": "epdg.epc.mnc001.mcc620.pub.3gppnetwork.org",
+    "ip": "41.189.161.186"
+  },
+  {
+    "country": "gh",
+    "fqdn": "epdg.epc.mnc001.mcc620.pub.3gppnetwork.org",
+    "ip": "41.189.160.185"
+  },
+  {
+    "country": "ma",
+    "fqdn": "epdg.epc.mnc000.mcc604.pub.3gppnetwork.org",
+    "ip": "197.230.202.185"
+  },
+  {
+    "country": "ma",
+    "fqdn": "epdg.epc.mnc000.mcc604.pub.3gppnetwork.org",
+    "ip": "197.230.202.184"
+  },
+  {
+    "country": "re",
+    "fqdn": "epdg.epc.mnc000.mcc647.pub.3gppnetwork.org",
+    "ip": "80.12.213.162"
+  },
+  {
+    "country": "re",
+    "fqdn": "epdg.epc.mnc000.mcc647.pub.3gppnetwork.org",
+    "ip": "80.12.213.163"
+  },
+  {
+    "country": "re",
+    "fqdn": "epdg.epc.mnc004.mcc647.pub.3gppnetwork.org",
+    "ip": "165.169.184.230"
+  },
+  {
+    "country": "za",
+    "fqdn": "epdg.epc.mnc001.mcc655.pub.3gppnetwork.org",
+    "ip": "41.1.163.134"
+  },
+  {
+    "country": "za",
+    "fqdn": "epdg.epc.mnc001.mcc655.pub.3gppnetwork.org",
+    "ip": "41.1.244.134"
+  },
+  {
+    "country": "za",
+    "fqdn": "epdg.epc.mnc007.mcc655.pub.3gppnetwork.org",
+    "ip": "41.50.128.53"
+  },
+  {
+    "country": "za",
+    "fqdn": "epdg.epc.mnc010.mcc655.pub.3gppnetwork.org",
+    "ip": "41.208.50.117"
+  },
+  {
+    "country": "za",
+    "fqdn": "epdg.epc.mnc010.mcc655.pub.3gppnetwork.org",
+    "ip": "41.208.50.116"
+  },
+  {
+    "country": "za",
+    "fqdn": "epdg.epc.mnc010.mcc655.pub.3gppnetwork.org",
+    "ip": "41.208.50.112"
+  },
+  {
+    "country": "za",
+    "fqdn": "epdg.epc.mnc002.mcc655.pub.3gppnetwork.org",
+    "ip": "41.246.191.254"
+  },
+  {
+    "country": "tz",
+    "fqdn": "epdg.epc.mnc002.mcc640.pub.3gppnetwork.org",
+    "ip": "41.222.183.74"
+  },
+  {
+    "country": "tz",
+    "fqdn": "epdg.epc.mnc003.mcc640.pub.3gppnetwork.org",
+    "ip": "41.222.183.74"
+  },
+  {
+    "country": "tz",
+    "fqdn": "epdg.epc.mnc04.mcc640.pub.3gppnetwork.org",
+    "ip": "197.250.3.147"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc003.mcc505.pub.3gppnetwork.org",
+    "ip": "101.119.216.1"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc003.mcc505.pub.3gppnetwork.org",
+    "ip": "101.119.208.33"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc071.mcc505.pub.3gppnetwork.org",
+    "ip": "101.168.246.193"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc071.mcc505.pub.3gppnetwork.org",
+    "ip": "149.135.224.24"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc071.mcc505.pub.3gppnetwork.org",
+    "ip": "101.168.246.65"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc071.mcc505.pub.3gppnetwork.org",
+    "ip": "149.135.226.9"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc072.mcc505.pub.3gppnetwork.org",
+    "ip": "101.168.246.193"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc072.mcc505.pub.3gppnetwork.org",
+    "ip": "149.135.224.24"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc072.mcc505.pub.3gppnetwork.org",
+    "ip": "101.168.246.65"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc072.mcc505.pub.3gppnetwork.org",
+    "ip": "149.135.226.9"
+  },
+  {
+    "country": "au",
+    "fqdn": "nsw.epdg.mobile.telstra.com",
+    "ip": "149.135.224.27"
+  },
+  {
+    "country": "au",
+    "fqdn": "nsw.epdg.mobile.telstra.com",
+    "ip": "101.168.246.194"
+  },
+  {
+    "country": "au",
+    "fqdn": "nsw.epdg.mobile.telstra.com",
+    "ip": "149.135.224.25"
+  },
+  {
+    "country": "au",
+    "fqdn": "qld.epdg.mobile.telstra.com",
+    "ip": "149.135.138.121"
+  },
+  {
+    "country": "au",
+    "fqdn": "qld.epdg.mobile.telstra.com",
+    "ip": "149.135.229.3"
+  },
+  {
+    "country": "au",
+    "fqdn": "qld.epdg.mobile.telstra.com",
+    "ip": "149.135.138.123"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc001.mcc505.pub.3gppnetwork.org",
+    "ip": "149.135.224.26"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc001.mcc505.pub.3gppnetwork.org",
+    "ip": "149.135.226.11"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc001.mcc505.pub.3gppnetwork.org",
+    "ip": "149.135.233.3"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc001.mcc505.pub.3gppnetwork.org",
+    "ip": "149.135.232.3"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc014.mcc505.pub.3gppnetwork.org",
+    "ip": "210.10.57.129"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc014.mcc505.pub.3gppnetwork.org",
+    "ip": "210.10.56.129"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc002.mcc505.pub.3gppnetwork.org",
+    "ip": "210.49.47.194"
+  },
+  {
+    "country": "au",
+    "fqdn": "epdg.epc.mnc002.mcc505.pub.3gppnetwork.org",
+    "ip": "210.49.47.193"
+  },
+  {
+    "country": "nz",
+    "fqdn": "epdg.ims.2degrees.net.nz",
+    "ip": "118.148.14.20"
+  },
+  {
+    "country": "nz",
+    "fqdn": "epdg.epc.mnc005.mcc530.pub.3gppnetwork.org",
+    "ip": "122.63.255.112"
+  },
+  {
+    "country": "nz",
+    "fqdn": "epdg.epc.mnc005.mcc530.pub.3gppnetwork.org",
+    "ip": "122.63.255.109"
+  },
+  {
+    "country": "nz",
+    "fqdn": "epdg.epc.mnc005.mcc530.pub.3gppnetwork.org",
+    "ip": "122.63.255.115"
+  },
+  {
+    "country": "nz",
+    "fqdn": "epdg.epc.mnc001.mcc530.pub.3gppnetwork.org",
+    "ip": "203.96.213.192"
+  },
+  {
+    "country": "nz",
+    "fqdn": "epdg.epc.mnc001.mcc530.pub.3gppnetwork.org",
+    "ip": "203.96.213.193"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc000.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.240.6"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc000.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.224.5"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc000.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.240.5"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc000.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.224.6"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc019.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.240.6"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc019.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.224.5"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc019.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.240.5"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc019.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.224.6"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc010.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.254.2"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc010.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.254.1"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc010.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.224.2"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc010.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.224.1"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc016.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.254.2"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc016.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.254.1"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc016.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.224.2"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc016.mcc454.pub.3gppnetwork.org",
+    "ip": "120.88.224.1"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc006.mcc454.pub.3gppnetwork.org",
+    "ip": "180.219.135.18"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc012.mcc454.pub.3gppnetwork.org",
+    "ip": "182.239.118.1"
+  },
+  {
+    "country": "hk",
+    "fqdn": "epdg.epc.mnc012.mcc454.pub.3gppnetwork.org",
+    "ip": "182.239.86.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc004.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.80"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc004.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.81"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc004.mcc404.pub.3gppnetwork.org",
+    "ip": "1.38.15.110"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc011.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.80"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc011.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.81"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc011.mcc404.pub.3gppnetwork.org",
+    "ip": "1.38.15.110"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc756.mcc405.pub.3gppnetwork.org",
+    "ip": "203.88.5.85"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc756.mcc405.pub.3gppnetwork.org",
+    "ip": "203.88.5.84"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc756.mcc405.pub.3gppnetwork.org",
+    "ip": "1.38.15.111"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc799.mcc405.pub.3gppnetwork.org",
+    "ip": "203.88.5.85"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc799.mcc405.pub.3gppnetwork.org",
+    "ip": "203.88.5.84"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc799.mcc405.pub.3gppnetwork.org",
+    "ip": "1.38.15.111"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc020.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.85"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc020.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.84"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc020.mcc404.pub.3gppnetwork.org",
+    "ip": "1.38.15.111"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc022.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.85"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc022.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.84"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc022.mcc404.pub.3gppnetwork.org",
+    "ip": "1.38.15.111"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc027.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.85"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc027.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.84"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc027.mcc404.pub.3gppnetwork.org",
+    "ip": "1.38.15.111"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc078.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.85"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc078.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.84"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc078.mcc404.pub.3gppnetwork.org",
+    "ip": "1.38.15.111"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc005.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.61.193"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc024.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.61.193"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc060.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.61.193"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc087.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.61.193"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc014.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.7"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc014.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.4"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc088.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.7"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc088.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.4"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc030.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.13"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc030.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.10"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc848.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.13"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc848.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.10"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc001.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.16"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc001.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.19"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc012.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.16"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc012.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.19"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc751.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.16"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc751.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.19"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc845.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.16"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc845.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.19"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc067.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.22"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc067.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.25"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc070.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.22"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc070.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.34"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc070.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.37"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc070.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.25"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc752.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.22"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc752.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.34"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc752.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.37"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc752.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.25"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc853.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.22"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc853.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.25"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc007.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.28"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc007.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.34"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc007.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.31"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc007.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.37"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc013.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.28"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc013.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.34"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc013.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.31"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc013.mcc404.pub.3gppnetwork.org",
+    "ip": "42.105.253.37"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc753.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.34"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc753.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.37"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc755.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.34"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc755.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.37"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc849.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.34"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc849.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.37"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc850.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.34"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc850.mcc405.pub.3gppnetwork.org",
+    "ip": "42.105.253.37"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc840.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc856.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc858.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc859.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc866.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc867.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc855.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc865.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc857.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc868.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc870.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc871.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc864.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc854.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc863.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc861.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc874.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc860.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc872.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc873.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc862.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc869.mcc405.pub.3gppnetwork.org",
+    "ip": "49.45.63.1"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc049.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.100"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc094.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.118"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc040.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.98"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc095.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.98"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc016.mcc404.pub.3gppnetwork.org",
+    "ip": "106.200.68.254"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc056.mcc405.pub.3gppnetwork.org",
+    "ip": "106.201.214.120"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc051.mcc405.pub.3gppnetwork.org",
+    "ip": "106.201.214.96"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc031.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.96"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc090.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.111"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc045.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.99"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc053.mcc405.pub.3gppnetwork.org",
+    "ip": "106.201.214.101"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc002.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.113"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc054.mcc405.pub.3gppnetwork.org",
+    "ip": "106.201.214.121"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc052.mcc405.pub.3gppnetwork.org",
+    "ip": "106.201.214.109"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc092.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.112"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc003.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.113"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc096.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.113"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc098.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.115"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc070.mcc404.pub.3gppnetwork.org",
+    "ip": "223.224.150.16"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc097.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.116"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc010.mcc404.pub.3gppnetwork.org",
+    "ip": "223.224.79.240"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc093.mcc404.pub.3gppnetwork.org",
+    "ip": "106.201.214.119"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc019.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.4.88"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc019.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.11.33"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc043.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.4.88"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc043.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.11.33"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc046.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.4.88"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc046.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.11.33"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc086.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.4.88"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc086.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.11.33"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc044.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.4.88"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc044.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.11.33"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc084.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.4.88"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc084.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.11.33"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc852.mcc405.pub.3gppnetwork.org",
+    "ip": "203.88.4.88"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc852.mcc405.pub.3gppnetwork.org",
+    "ip": "203.88.11.33"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc015.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.80"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc015.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.81"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc056.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.80"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc056.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.81"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc089.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.80"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc089.mcc404.pub.3gppnetwork.org",
+    "ip": "203.88.5.81"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc066.mcc405.pub.3gppnetwork.org",
+    "ip": "203.88.5.80"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc066.mcc405.pub.3gppnetwork.org",
+    "ip": "203.88.5.81"
+  },
+  {
+    "country": "in",
+    "fqdn": "epdg.epc.mnc055.mcc405.pub.3gppnetwork.org",
+    "ip": "223.224.123.12"
+  },
+  {
+    "country": "jp",
+    "fqdn": "epdg.epc.mnc050.mcc440.pub.3gppnetwork.org",
+    "ip": "27.86.78.32"
+  },
+  {
+    "country": "jp",
+    "fqdn": "epdg.epc.mnc050.mcc440.pub.3gppnetwork.org",
+    "ip": "27.86.78.96"
+  },
+  {
+    "country": "jp",
+    "fqdn": "epdg.epc.mnc050.mcc440.pub.3gppnetwork.org",
+    "ip": "27.86.78.34"
+  },
+  {
+    "country": "jp",
+    "fqdn": "epdg.epc.mnc050.mcc440.pub.3gppnetwork.org",
+    "ip": "27.86.78.98"
+  },
+  {
+    "country": "jp",
+    "fqdn": "epdg.epc.mnc051.mcc440.pub.3gppnetwork.org",
+    "ip": "27.86.78.32"
+  },
+  {
+    "country": "jp",
+    "fqdn": "epdg.epc.mnc051.mcc440.pub.3gppnetwork.org",
+    "ip": "27.86.78.96"
+  },
+  {
+    "country": "jp",
+    "fqdn": "epdg.epc.mnc051.mcc440.pub.3gppnetwork.org",
+    "ip": "27.86.78.34"
+  },
+  {
+    "country": "jp",
+    "fqdn": "epdg.epc.mnc051.mcc440.pub.3gppnetwork.org",
+    "ip": "27.86.78.98"
+  },
+  {
+    "country": "jo",
+    "fqdn": "epdg.epc.mnc003.mcc416.pub.3gppnetwork.org",
+    "ip": "37.152.0.16"
+  },
+  {
+    "country": "jo",
+    "fqdn": "epdg.epc.mnc003.mcc416.pub.3gppnetwork.org",
+    "ip": "37.152.0.8"
+  },
+  {
+    "country": "jo",
+    "fqdn": "epdg.epc.mnc001.mcc416.pub.3gppnetwork.org",
+    "ip": "46.32.97.120"
+  },
+  {
+    "country": "kw",
+    "fqdn": "epdg.epc.mnc004.mcc419.pub.3gppnetwork.org",
+    "ip": "94.128.15.117"
+  },
+  {
+    "country": "kw",
+    "fqdn": "epdg.epc.mnc004.mcc419.pub.3gppnetwork.org",
+    "ip": "94.129.128.171"
+  },
+  {
+    "country": "kw",
+    "fqdn": "epdg.epc.mnc003.mcc419.pub.3gppnetwork.org",
+    "ip": "217.69.180.20"
+  },
+  {
+    "country": "kw",
+    "fqdn": "epdg.epc.mnc003.mcc419.pub.3gppnetwork.org",
+    "ip": "217.69.190.20"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc011.mcc502.pub.3gppnetwork.org",
+    "ip": "42.153.24.64"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc011.mcc502.pub.3gppnetwork.org",
+    "ip": "42.153.28.64"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc153.mcc502.pub.3gppnetwork.org",
+    "ip": "120.140.66.12"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc153.mcc502.pub.3gppnetwork.org",
+    "ip": "120.140.67.12"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc016.mcc502.pub.3gppnetwork.org",
+    "ip": "115.164.32.40"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc016.mcc502.pub.3gppnetwork.org",
+    "ip": "115.164.160.40"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc018.mcc502.pub.3gppnetwork.org",
+    "ip": "123.136.110.180"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc018.mcc502.pub.3gppnetwork.org",
+    "ip": "123.136.100.132"
+  },
+  {
+    "country": "my",
+    "fqdn": "vepdg.epc.mnc018.mcc502.pub.3gppnetwork.org",
+    "ip": "123.136.100.133"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc152.mcc502.pub.3gppnetwork.org",
+    "ip": "183.78.4.222"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc152.mcc502.pub.3gppnetwork.org",
+    "ip": "183.78.4.223"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc019.mcc502.pub.3gppnetwork.org",
+    "ip": "115.164.32.40"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc012.mcc502.pub.3gppnetwork.org",
+    "ip": "202.75.146.43"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc012.mcc502.pub.3gppnetwork.org",
+    "ip": "202.75.146.41"
+  },
+  {
+    "country": "my",
+    "fqdn": "epdg.epc.mnc012.mcc502.pub.3gppnetwork.org",
+    "ip": "202.75.146.42"
+  },
+  {
+    "country": "mv",
+    "fqdn": "epdg.epc.mnc002.mcc472.pub.3gppnetwork.org",
+    "ip": "103.50.104.222"
+  },
+  {
+    "country": "om",
+    "fqdn": "epdg.epc.mnc002.mcc422.pub.3gppnetwork.org",
+    "ip": "212.72.0.48"
+  },
+  {
+    "country": "om",
+    "fqdn": "epdg.epc.mnc002.mcc422.pub.3gppnetwork.org",
+    "ip": "212.72.0.52"
+  },
+  {
+    "country": "pk",
+    "fqdn": "epdg.epc.mnc006.mcc410.pub.3gppnetwork.org",
+    "ip": "37.111.187.242"
+  },
+  {
+    "country": "pk",
+    "fqdn": "epdg.epc.mnc006.mcc410.pub.3gppnetwork.org",
+    "ip": "37.111.188.242"
+  },
+  {
+    "country": "pk",
+    "fqdn": "epdg.epc.mnc004.mcc410.pub.3gppnetwork.org",
+    "ip": "115.42.72.228"
+  },
+  {
+    "country": "pk",
+    "fqdn": "epdg.epc.mnc004.mcc410.pub.3gppnetwork.org",
+    "ip": "121.91.63.26"
+  },
+  {
+    "country": "pk",
+    "fqdn": "epdg.epc.mnc003.mcc410.pub.3gppnetwork.org",
+    "ip": "119.152.121.10"
+  },
+  {
+    "country": "pk",
+    "fqdn": "epdg.epc.mnc001.mcc410.pub.3gppnetwork.org",
+    "ip": "119.160.95.248"
+  },
+  {
+    "country": "pk",
+    "fqdn": "epdg.epc.mnc001.mcc410.pub.3gppnetwork.org",
+    "ip": "119.160.84.248"
+  },
+  {
+    "country": "pk",
+    "fqdn": "epdg.epc.mnc007.mcc410.pub.3gppnetwork.org",
+    "ip": "119.160.95.248"
+  },
+  {
+    "country": "pk",
+    "fqdn": "epdg.epc.mnc007.mcc410.pub.3gppnetwork.org",
+    "ip": "119.160.84.248"
+  },
+  {
+    "country": "qa",
+    "fqdn": "epdg.epc.mnc002.mcc427.pub.3gppnetwork.org",
+    "ip": "80.76.164.146"
+  },
+  {
+    "country": "qa",
+    "fqdn": "epdg.epc.mnc001.mcc427.pub.3gppnetwork.org",
+    "ip": "86.62.214.95"
+  },
+  {
+    "country": "qa",
+    "fqdn": "epdg.epc.mnc001.mcc427.pub.3gppnetwork.org",
+    "ip": "86.62.214.93"
+  },
+  {
+    "country": "qa",
+    "fqdn": "epdg.epc.mnc006.mcc427.pub.3gppnetwork.org",
+    "ip": "185.239.93.11"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc004.mcc420.pub.3gppnetwork.org",
+    "ip": "185.5.152.16"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc004.mcc420.pub.3gppnetwork.org",
+    "ip": "79.170.53.26"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc004.mcc420.pub.3gppnetwork.org",
+    "ip": "79.170.52.50"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.mobily.com.sa",
+    "ip": "84.23.103.61"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.mobily.com.sa",
+    "ip": "84.23.99.116"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc003.mcc420.pub.3gppnetwork.org",
+    "ip": "86.51.51.56"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc001.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.249"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc001.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.244"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc001.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.253"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc001.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.250"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc001.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.245"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc001.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.251"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc001.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.252"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc001.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.241"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc001.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.243"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc001.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.242"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc005.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.249"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc005.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.244"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc005.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.253"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc005.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.250"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc005.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.245"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc005.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.251"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc005.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.252"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc005.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.241"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc005.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.243"
+  },
+  {
+    "country": "sa",
+    "fqdn": "epdg.epc.mnc005.mcc420.pub.3gppnetwork.org",
+    "ip": "212.215.132.242"
+  },
+  {
+    "country": "sg",
+    "fqdn": "epdg.epc.mnc001.mcc525.pub.3gppnetwork.org",
+    "ip": "111.65.100.17"
+  },
+  {
+    "country": "sg",
+    "fqdn": "epdg.epc.mnc001.mcc525.pub.3gppnetwork.org",
+    "ip": "111.65.100.1"
+  },
+  {
+    "country": "sg",
+    "fqdn": "epdg.epc.mnc005.mcc525.pub.3gppnetwork.org",
+    "ip": "122.11.213.1"
+  },
+  {
+    "country": "sg",
+    "fqdn": "epdg.epc.mnc005.mcc525.pub.3gppnetwork.org",
+    "ip": "203.116.25.1"
+  },
+  {
+    "country": "sg",
+    "fqdn": "epdg.epc.mnc010.mcc525.pub.3gppnetwork.org",
+    "ip": "210.10.14.25"
+  },
+  {
+    "country": "sg",
+    "fqdn": "epdg.epc.mnc010.mcc525.pub.3gppnetwork.org",
+    "ip": "210.10.15.25"
+  },
+  {
+    "country": "tw",
+    "fqdn": "epdg.epc.mnc097.mcc466.pub.3gppnetwork.org",
+    "ip": "175.96.62.1"
+  },
+  {
+    "country": "tw",
+    "fqdn": "epdg.epc.mnc097.mcc466.pub.3gppnetwork.org",
+    "ip": "175.96.63.1"
+  },
+  {
+    "country": "tw",
+    "fqdn": "epdg.epc.mnc001.mcc466.pub.3gppnetwork.org",
+    "ip": "211.77.241.91"
+  },
+  {
+    "country": "tw",
+    "fqdn": "epdg.epc.mnc001.mcc466.pub.3gppnetwork.org",
+    "ip": "211.77.54.77"
+  },
+  {
+    "country": "tw",
+    "fqdn": "epdg.epc.mnc001.mcc466.pub.3gppnetwork.org",
+    "ip": "211.77.241.162"
+  },
+  {
+    "country": "tw",
+    "fqdn": "epdg.epc.mnc001.mcc466.pub.3gppnetwork.org",
+    "ip": "211.77.54.78"
+  },
+  {
+    "country": "tw",
+    "fqdn": "epdg.epc.mnc001.mcc466.pub.3gppnetwork.org",
+    "ip": "211.77.241.161"
+  },
+  {
+    "country": "tw",
+    "fqdn": "epdg.epc.mnc092.mcc466.pub.3gppnetwork.org",
+    "ip": "221.120.20.11"
+  },
+  {
+    "country": "tw",
+    "fqdn": "epdg.epc.mnc092.mcc466.pub.3gppnetwork.org",
+    "ip": "221.120.20.1"
+  },
+  {
+    "country": "tw",
+    "fqdn": "epdg.epc.mnc092.mcc466.pub.3gppnetwork.org",
+    "ip": "221.120.23.1"
+  },
+  {
+    "country": "th",
+    "fqdn": "epdg.epc.mnc017.mcc520.pub.3gppnetwork.org",
+    "ip": "1.20.65.24"
+  },
+  {
+    "country": "th",
+    "fqdn": "epdg.epc.mnc017.mcc520.pub.3gppnetwork.org",
+    "ip": "1.20.66.24"
+  },
+  {
+    "country": "th",
+    "fqdn": "epdg.epc.mnc004.mcc520.pub.3gppnetwork.org",
+    "ip": "61.91.170.102"
+  },
+  {
+    "country": "th",
+    "fqdn": "epdg.epc.mnc004.mcc520.pub.3gppnetwork.org",
+    "ip": "61.91.170.166"
+  },
+  {
+    "country": "th",
+    "fqdn": "epdg.epc.mnc005.mcc520.pub.3gppnetwork.org",
+    "ip": "111.84.240.252"
+  },
+  {
+    "country": "th",
+    "fqdn": "epdg.epc.mnc005.mcc520.pub.3gppnetwork.org",
+    "ip": "111.84.112.252"
+  },
+  {
+    "country": "th",
+    "fqdn": "epdg.epc.mnc003.mcc520.pub.3gppnetwork.org",
+    "ip": "119.31.123.26"
+  },
+  {
+    "country": "th",
+    "fqdn": "epdg.epc.mnc003.mcc520.pub.3gppnetwork.org",
+    "ip": "119.31.121.14"
+  },
+  {
+    "country": "tr",
+    "fqdn": "epdg.epc.mnc003.mcc286.pub.3gppnetwork.org",
+    "ip": "188.41.229.37"
+  },
+  {
+    "country": "tr",
+    "fqdn": "epdg.epc.mnc003.mcc286.pub.3gppnetwork.org",
+    "ip": "188.41.228.21"
+  },
+  {
+    "country": "tr",
+    "fqdn": "epdg.epc.mnc003.mcc286.pub.3gppnetwork.org",
+    "ip": "188.41.230.27"
+  },
+  {
+    "country": "tr",
+    "fqdn": "epdg.epc.mnc003.mcc286.pub.3gppnetwork.org",
+    "ip": "188.41.226.37"
+  },
+  {
+    "country": "tr",
+    "fqdn": "epdg.epc.mnc001.mcc286.pub.3gppnetwork.org",
+    "ip": "188.59.221.1"
+  },
+  {
+    "country": "tr",
+    "fqdn": "epdg.epc.mnc001.mcc286.pub.3gppnetwork.org",
+    "ip": "188.59.223.1"
+  },
+  {
+    "country": "tr",
+    "fqdn": "epdg.epc.mnc001.mcc286.pub.3gppnetwork.org",
+    "ip": "188.59.227.1"
+  },
+  {
+    "country": "tr",
+    "fqdn": "epdg.epc.mnc001.mcc286.pub.3gppnetwork.org",
+    "ip": "188.59.228.1"
+  },
+  {
+    "country": "tr",
+    "fqdn": "epdg.epc.mnc002.mcc286.pub.3gppnetwork.org",
+    "ip": "217.31.231.69"
+  },
+  {
+    "country": "tr",
+    "fqdn": "epdg.epc.mnc002.mcc286.pub.3gppnetwork.org",
+    "ip": "217.31.231.77"
+  },
+  {
+    "country": "tr",
+    "fqdn": "epdg.epc.mnc002.mcc286.pub.3gppnetwork.org",
+    "ip": "217.31.231.85"
+  },
+  {
+    "country": "ae",
+    "fqdn": "epdg.epc.mnc003.mcc424.pub.3gppnetwork.org",
+    "ip": "94.206.6.168"
+  },
+  {
+    "country": "vn",
+    "fqdn": "epdg.epc.mnc004.mcc452.pub.3gppnetwork.org",
+    "ip": "27.68.226.241"
+  },
+  {
+    "country": "vn",
+    "fqdn": "epdg.epc.mnc001.mcc452.pub.3gppnetwork.org",
+    "ip": "203.162.126.130"
+  },
+  {
+    "country": "vn",
+    "fqdn": "epdg.epc.mnc002.mcc452.pub.3gppnetwork.org",
+    "ip": "113.185.2.254"
+  },
+  {
+    "country": "vn",
+    "fqdn": "epdg.epc.mnc005.mcc452.pub.3gppnetwork.org",
+    "ip": "203.170.27.10"
+  }
+]
